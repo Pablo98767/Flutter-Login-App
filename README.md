@@ -8,8 +8,10 @@ Uma interface web  para login e registro
 <!-- Adicione capturas de tela do seu app aqui -->
 | Tela 1 | Tela 2 | Tela 3 |
 |--------|--------|--------|
-<img width="417" height="880" alt="image" src="https://github.com/user-attachments/assets/6953156c-911c-4a93-a0c4-900d610e1373" />
+<img width="442" height="914" alt="image" src="https://github.com/user-attachments/assets/1a353197-2ac2-4b25-882c-b5e4fd86089a" />
 
+<hr>
+<img width="449" height="931" alt="image" src="https://github.com/user-attachments/assets/c19dbbca-692e-4654-8613-f22c63eb132b" />
 
 
 ## 🛠️ Tecnologias Utilizadas

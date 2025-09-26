@@ -127,7 +127,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Se você tiver alguma dúvida ou problema, sinta-se à vontade para:
 - Abrir uma [issue](https://github.com/SEU_USUARIO/NOME_DO_REPO/issues)
-- Entrar em contato: seuemail@exemplo.com
+- Entrar em contato: contatopablofelix10@gmail.com
 
 ---
 

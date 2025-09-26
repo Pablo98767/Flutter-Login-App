@@ -14,6 +14,10 @@ Uma interface web  para login e registro
 <img width="449" height="931" alt="image" src="https://github.com/user-attachments/assets/c19dbbca-692e-4654-8613-f22c63eb132b" />
 
 
+## Feedbacks
+<hr>
+<img width="449" height="906" alt="image" src="https://github.com/user-attachments/assets/59249eba-caa7-4036-8fae-19da103eec9c" />
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Flutter** - Framework de desenvolvimento

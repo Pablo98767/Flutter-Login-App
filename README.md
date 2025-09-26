@@ -119,8 +119,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- GitHub: [@seuusuario](https://github.com/seuusuario)
+**pablo Felix**
+- GitHub: https://github.com/Pablo98767
 - LinkedIn: [Seu Perfil](https://linkedin.com/in/seuperfil)
 
 ## 📞 Suporte
